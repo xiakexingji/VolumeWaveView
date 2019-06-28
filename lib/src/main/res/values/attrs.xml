@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VolumeWaveView">
+        <attr name="vwv_light_color" format="color" />
+        <attr name="vwv_un_light_color" format="color" />
+        <attr name="vwv_column_width" format="dimension" />
+        <attr name="vwv_column_offset" format="dimension" />
+        <attr name="vwv_is_pause" format="boolean" />
+    </declare-styleable>
+</resources>
