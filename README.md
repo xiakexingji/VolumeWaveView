@@ -1,6 +1,6 @@
 ## VolumeWaveView （音量条形与波浪）
 
-###截图
+### 截图
 ![image](https://github.com/conghuahuadan/VolumeWaveView/blob/master/screenshots/GIF.gif?raw=true)
 
 ### 使用
